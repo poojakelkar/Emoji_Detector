@@ -3,9 +3,9 @@
 Created using Javascript
 
 ### Features:
-- Takes Emoji as Input from User
-- Shows mostly use emoji
-- shows the emoji name 
+- Takes Emoji as Input from User.
+- Shows mostly use emoji and after cliking on emoji show there name.
+- shows the emoji name.
 
 ### Package used
 - useStste: for checking state of value
